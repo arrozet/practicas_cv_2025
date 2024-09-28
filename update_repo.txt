@@ -1,0 +1,4 @@
+Usando la CMD, en el directorio del repo:
+
+git fetch upstream
+git merge upstream/main
