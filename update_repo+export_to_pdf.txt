@@ -1,0 +1,10 @@
+Usando la CMD, en el directorio del repo:
+
+git fetch upstream
+git merge upstream/main
+
+--------------------------------
+Usando la CMD, en el directorio donde esté el notebook:
+jupyter nbconvert --execute --to html <nombre del notebook>.ipynb
+
+Y después se imprime guardando a pdf
