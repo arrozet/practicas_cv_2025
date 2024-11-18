@@ -1,0 +1,1 @@
+frozen_inference_graph.pb pesaba demasiado y hacía que no pudiese subir el zip a la tarea. Por favor, si se va a probar el ipynb del 7.5, se ruega que se descargue este archivo del repositorio principal para su correcto funcionamiento.
